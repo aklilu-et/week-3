@@ -197,7 +197,7 @@ There comes a certain point in every new developers journey where they need to m
 
 
 ## Tasks
-There are two tasks for this session. You will find details in each file. To start, fork this repo. 
+There are three tasks for this session. You will find details in each file. To start, fork this repo. 
 1. [Unix-Conda-Pip](nb/unix-conda-pip.ipynb). 
 2. [GitHub](md/git-more.md)
 3. [pandas-sklearn-basics](pandas-sklearn-basics/)
