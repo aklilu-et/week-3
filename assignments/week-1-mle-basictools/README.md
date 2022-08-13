@@ -157,15 +157,15 @@ Enter the following commands in terminal to setup your environment. When prompte
   ```console
   git fetch upstream
 
-  git checkout master
+  git checkout main
   
-  git rebase upstream/master
+  git rebase upstream/main
   ```
      
   10. After this, you may need to force push if this is the first time rebasing
   
   ```console
-  git push -f origin master
+  git push -f origin main
   ```
      
      
